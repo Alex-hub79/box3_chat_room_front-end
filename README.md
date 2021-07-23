@@ -1,5 +1,9 @@
 # box3_chat_room
 
+This is a chat room front end for box3.
+Used frame:vue.js and vuetify.
+
+The following are the basic commands for operating the project:
 ## Project setup
 ```
 npm install
